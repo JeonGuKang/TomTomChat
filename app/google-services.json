@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781576281138",
+    "firebase_url": "https://tomtomchat-120a4.firebaseio.com",
+    "project_id": "tomtomchat-120a4",
+    "storage_bucket": "tomtomchat-120a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781576281138:android:4d7dbb7002a6be5c",
+        "android_client_info": {
+          "package_name": "com.strongbulb.tomtomchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781576281138-h5dfmpg8edh93fqauqnrde4blnh6n6cu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.strongbulb.tomtomchat",
+            "certificate_hash": "a70efdefb763c62301f5f38a28905cc7036615f0"
+          }
+        },
+        {
+          "client_id": "781576281138-jvb49j3928040dc3iv3ciuifg35ql204.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjMglIT6kJvw4cF1RXFWTp_wU21p_LwBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781576281138-jvb49j3928040dc3iv3ciuifg35ql204.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
