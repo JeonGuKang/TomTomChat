@@ -39,7 +39,7 @@ public class ChatActivity extends AppCompatActivity {
     private ArrayList<ChatData> list;
     private FirebaseDatabase firebaseDatabase = FirebaseDatabase.getInstance();
     private DatabaseReference databaseReference = firebaseDatabase.getReference();
-
+    //전구리
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
